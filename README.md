@@ -16,3 +16,6 @@ I will set aside 2 hours every day for a week to work on this DevOps challenge. 
 
 ## 📅 Daily Progress Logs
 - Day 1: Setup repo and AWS connection ✅
+## 📄 Project Documentation
+You can view my detailed DevOps challenge plan and progress in the [legendary-aws-devops-cicd.pdf](docs/legendary-aws-devops-cicd.pdf) file.
+
