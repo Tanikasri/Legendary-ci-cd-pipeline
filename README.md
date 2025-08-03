@@ -11,11 +11,3 @@ Build a complete CI/CD pipeline that:
 - Packages app with AWS CodeBuild
 - Deploys with AWS CodeDeploy
 
-## 🗓️ Commitment
-I will set aside 2 hours every day for a week to work on this DevOps challenge. I will keep myself accountable by logging my progress daily in this repo. My reward for completing this challenge will be a relaxing weekend break or a small treat of my choice.
-
-## 📅 Daily Progress Logs
-- Day 1: Setup repo and AWS connection ✅
-## 📄 Project Documentation
-You can view my detailed DevOps challenge plan and progress in the [legendary-aws-devops-cicd.pdf](docs/legendary-aws-devops-cicd.pdf) file.
-
