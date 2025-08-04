@@ -11,3 +11,5 @@ Build a complete CI/CD pipeline that:
 - Packages app with AWS CodeBuild
 - Deploys with AWS CodeDeploy
 
+Triggering CI/CD pipeline test.
+Trigger CI/CD
