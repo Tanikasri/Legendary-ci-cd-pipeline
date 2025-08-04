@@ -20,6 +20,7 @@ jobs:
 
       - name: Build with Maven
         run: mvn clean package
+        working-directory: ./myapp  # 👈 Add this line
 
       - name: Deploy to EC2
         uses: appleboy/scp-action@master
@@ -27,5 +28,5 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ec2-user
           key: ${{ secrets.EC2_KEY }}
-          source: target/myapp.war
+          source: myapp/target/*.war  # 👈 Update this path
           target: /home/ec2-user/
